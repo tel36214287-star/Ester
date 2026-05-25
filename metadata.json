@@ -1,0 +1,8 @@
+{
+  "name": "Estellarium",
+  "description": "Motor de inteligência astronômica e computação celeste de alta precisão para mapeamento do firmamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
